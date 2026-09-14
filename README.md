@@ -101,7 +101,7 @@ new_game(seed=123, deck_id="moon", stake=1, challenge="none", endless=False)
 牌桌 /某个/路径.html --静  # 关掉自动刷新，只出静态快照
 ```
 
-**要两个文件放在同一个文件夹**：`moonlit_cards.py` 和 `牌桌四页.py`。
+**要两个文件放在同一个文件夹**：`moonlit_cards.py` 和 `牌桌.py`。
 渲染器零依赖，只用 Python 标准库。
 
 > 做这个的起因是一句话：「如果内嵌了 我光看 又不能和你说话 有啥意思」——
